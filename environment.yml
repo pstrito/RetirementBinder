@@ -5,3 +5,5 @@ dependencies:
   - numpy
   - pandas
   - pandas-profiling
+  - pip:
+      - retirement
