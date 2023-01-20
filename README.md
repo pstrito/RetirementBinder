@@ -1,5 +1,4 @@
-# RetirementBinder
-This repo is specifically to be run in appmode with Kokoro's custom retirement library
+# RetirementBinder This repo is specifically to be run in appmode with Kokoro's custom retirement library
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pstrito/RetirementBinder.git/main?urlpath=%2Fapps%2FRetirementGme.ipynb)
 
